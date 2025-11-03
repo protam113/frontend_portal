@@ -44,8 +44,7 @@ Keep the scope open-ended: you can choose **libraries, data models, and integrat
 
 ## 🔗 Backend Repository
 > The backend service for this project can be found here:  
-> **[👉 Backend Repository Link](#)**  
-(*Replace `#` with your actual backend repo URL.*)
+> **[👉 Backend Repository Link](https://github.com/protam113/backend)**  
 
 ---
 
