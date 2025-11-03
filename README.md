@@ -50,7 +50,20 @@ Keep the scope open-ended: you can choose **libraries, data models, and integrat
 
 ## 🧩 Project Structure
 
-To explore the folder layout and file purposes, check [`tree.md`](./tree.md) located in the root directory.
+> To explore the folder layout and file purposes, check [`tree.md`](./tree.md) located in the root directory.
+
+---
+
+## 🔗 API Flow
+
+> To understand how the frontend communicates with the backend — including request patterns, response structures, and data flow — check [`api_flow.md`](./api_flow.md) in the root directory.
+
+---
+
+
+## 🔐 Auth Flow
+
+> To understand how the frontend handles authentication and user session flow — including login, logout, and authorization checks — see [`auth.md`](./auth.md) in the root directory.
 
 ---
 
