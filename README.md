@@ -56,10 +56,9 @@ Keep the scope open-ended: you can choose **libraries, data models, and integrat
 
 ## 🔗 API Flow
 
-> To understand how the frontend communicates with the backend — including request patterns, response structures, and data flow — check [`api_flow.md`](./api_flow.md) in the root directory.
+> To understand how the backend communicates with the frontend — including response structures, request handling, and data delivery — check [`api.md`](./api.md) in the root directory.
 
 ---
-
 
 ## 🔐 Auth Flow
 
